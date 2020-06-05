@@ -1,0 +1,17 @@
+{
+	"cSpell.ignoreWords": [
+		"connection",
+		"database",
+		"dotnet",
+		"dtos",
+		"hmac",
+		"hmacsha",
+		"localhost",
+		"rpg",
+		"server",
+		"server localhost sqlexpress database dotnet rpg trusted connection true",
+		"sqlexpress",
+		"true",
+		"trusted"
+	]
+}
